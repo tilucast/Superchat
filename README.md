@@ -1,3 +1,24 @@
+*** React Firebase Serverless Chat App ***
+
+<img src="./img/reactfirebase.png" align="center"></img>
+
+This project was built by Fireship on Youtube.
+Here's the link to his video: https://www.youtube.com/watch?v=zQyrwxMPm88
+
+
+We are using Firebase as the database for this project, also, firebase hooks for react, and some other stuffs. 
+Please, check the Firebase documentation for more info on how to use it.
+
+We do have a script that bans users permanently if they 'curse' on the chat, but to have this running, it is required to
+activate the billing on the project, and i'm not doing that.
+
+
+And finally, i don't know anything about Firebase, its hooks with react, etc. Just adding this project because it is really simple, works as intended, and gives me the opportunity to try to change this project in some way in the future.
+
+---------------------------------------------------------------------------------------------------
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
