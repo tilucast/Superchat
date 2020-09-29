@@ -1,6 +1,6 @@
 *** React Firebase Serverless Chat App ***
 
-<img src="./img/reactfirebase.png" align="center"></img>
+<img src="./img/reactfirebase.jpg" align="center"></img>
 
 This project was built by Fireship on Youtube.
 Here's the link to his video: https://www.youtube.com/watch?v=zQyrwxMPm88
