@@ -1,4 +1,4 @@
-*** React Firebase Serverless Chat App ***
+***React Firebase Serverless Chat App***
 
 <img src="./img/reactfirebase.jpg" align="center"></img>
 
